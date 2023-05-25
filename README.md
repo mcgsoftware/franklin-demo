@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+Brian's franklin demo
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
